@@ -15,8 +15,8 @@ We are a team of friends that have a background in software & games. Most of us 
 ## How to Contribute
 
 Before contributing to any of our repositories, please review our:
-- [Code of Conduct](.github/CODE_OF_CONDUCT.md)
-- [Contributing Guidelines](.github/CONTRIBUTING.md)
+- [Code of Conduct](CODE_OF_CONDUCT.md)
+- [Contributing Guidelines](CONTRIBUTING.md)
 
 ## Connect With Us
 
